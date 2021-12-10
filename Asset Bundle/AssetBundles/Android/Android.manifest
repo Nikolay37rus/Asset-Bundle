@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1879588300
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: imeges_bundle
+      Dependencies: {}
+    Info_1:
+      Name: audios_bundle
+      Dependencies: {}
